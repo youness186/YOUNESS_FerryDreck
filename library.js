@@ -1,3 +1,4 @@
 const object  = {
-    "name": "NEE!!"
+    "name": "NEE!!",
+    "version": "0.1.0",
 };
